@@ -1,4 +1,4 @@
-
+![05cItXL96l4LE9n02WfDR0h-5 fit_scale size_1028x578 v_1582751026](https://user-images.githubusercontent.com/61956315/89566072-7fd35a00-d7ed-11ea-9e1d-e8b8d4cf6fe8.png)
 
 # Netflix-Recommender-System
 ## Introduction to the data set
