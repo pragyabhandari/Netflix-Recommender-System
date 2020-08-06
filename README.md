@@ -18,7 +18,7 @@ User rating prediction has been done on a subset of the data for ease of computa
     
 - **Model-Based CF** - It provides item recommendation by first developing a model of user ratings.
 
-Cosine Similarity is calculated using the pairwise distance function of sklearn for predicting similarity between users. The model is evaluated using the RMSE metric using mean_squared_error function from sklearn. 
+Cosine Similarity is calculated using the pairwise distance function of sklearn for predicting similarity between users. The model is evaluated using the ***RMSE*** metric using mean_squared_error function from sklearn. 
 
 The Model-Based CF is based ***Matrix Factorization (MF)*** that deals better with sparse matrices. It has the ability to learn from known user ratings to predict latent preferences of users with unknown ratings. ***Singular Value Decomposition***, also popularly known as **SVD**, was used as a Matrix Factorization method and can better address a cold-start problem than Memory-based recommenders. A cold-start problem is defined as a situation when a new user has little to no history of ratings or preferences.
 
